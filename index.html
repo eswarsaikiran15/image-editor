@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image Editor</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Photo Editor</h1>
+        <input type="file" id="imageInput" accept="image/*" />
+        <div class="image-container">
+            <img src="placeholder.jpg" alt="Image" id="previewImage" />
+        </div>
+        <div class="controls">
+            <div class="control-group">
+                <label for="brightness">Brightness:</label>
+                <input type="range" id="brightness" min="0" max="200" value="100" />
+            </div>
+            <div class="control-group">
+                <label for="contrast">Contrast:</label>
+                <input type="range" id="contrast" min="0" max="200" value="100" />
+            </div>
+            <div class="control-group">
+                <label for="grayscale">Grayscale:</label>
+                <input type="range" id="grayscale" min="0" max="100" value="0" />
+            </div>
+            <div class="control-group">
+                <label for="blur">Blur:</label>
+                <input type="range" id="blur" min="0" max="10" value="0" />
+            </div>
+            <div class="control-group">
+                <label for="sepia">Sepia:</label>
+                <input type="range" id="sepia" min="0" max="100" value="0" />
+            </div>
+            <div class="control-group">
+                <label for="hue">Hue Rotation:</label>
+                <input type="range" id="hue" min="0" max="360" value="0" />
+            </div>
+            <div class="control-group">
+                <label for="saturate">Saturation:</label>
+                <input type="range" id="saturate" min="0" max="200" value="100" />
+            </div>
+            <div class="control-group">
+                <label for="invert">Invert:</label>
+                <input type="range" id="invert" min="0" max="100" value="0" />
+            </div>
+            <button id="reset" class="btn">Reset</button>
+            <button id="save" class="btn">Save</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
