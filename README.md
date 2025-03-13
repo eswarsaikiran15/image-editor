@@ -21,9 +21,13 @@ A simple and interactive Image Editor Web Application built using HTML, CSS, and
 ✅ Responsive Design – Works on all devices (desktop, tablet, mobile).
 
 🛠️ Tech Stack
+
 HTML → Structure and layout
+
 CSS → Styling, animations, and responsiveness
+
 JavaScript → Image manipulation and filters
+
 
 ## 🚀 Getting Started
 
