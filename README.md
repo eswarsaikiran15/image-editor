@@ -41,7 +41,8 @@ JavaScript → Image manipulation and filters
 
 ##  Screenshots
 
-  
+  ![image](https://github.com/user-attachments/assets/3ace63f5-a3ec-4383-a30f-c2f313a8459c)
+
 
   
 
