@@ -6,11 +6,17 @@ A simple and interactive Image Editor Web Application built using HTML, CSS, and
 
 📌 Features
 ✅ Upload & Preview Images – Users can upload images and see real-time previews.
+
 ✅ Filters & Adjustments – Brightness, contrast, grayscale, sepia, blur, and more.
+
 ✅ Crop & Resize – Easily crop or resize images.
+
 ✅ Rotate & Flip – Rotate left/right, flip horizontally/vertically.
+
 ✅ Download Edited Image – Save the edited image to your device.
+
 ✅ Drag & Drop Support – Users can drag and drop images for quick editing.
+
 ✅ Responsive Design – Works on all devices (desktop, tablet, mobile).
 
 🛠️ Tech Stack
