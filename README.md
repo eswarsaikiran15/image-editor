@@ -45,7 +45,7 @@ JavaScript → Image manipulation and filters
 
   
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 🔹 Support for layers & stickers  
 🔹 Undo/Redo functionality  
