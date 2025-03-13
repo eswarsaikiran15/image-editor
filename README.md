@@ -33,9 +33,6 @@ JavaScript → Image manipulation and filters
 
 1. **Clone the repository**
     
-    bash
-    
-    CopyEdit
     
     `git clone https://github.com/eswarsaikiran15/image-editor.git`
     
