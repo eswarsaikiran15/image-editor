@@ -5,6 +5,7 @@ check live demo: https://eswarsaikiran15.github.io/image-editor/
 A simple and interactive Image Editor Web Application built using HTML, CSS, and JavaScript. This tool allows users to apply various filters, crop, rotate, and adjust images with an easy-to-use interface.
 
  Features
+ 
 
  Upload & Preview Images – Users can upload images and see real-time previews.
 
